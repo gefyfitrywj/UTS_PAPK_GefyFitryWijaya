@@ -1,0 +1,22 @@
+{
+    "name": "Gefy's Mart",
+    "short_name": "Toko Grosir",
+    "description": "UTS PAPK Membuat Aplikasi Toko Grosir dengan javascript PWA ",
+    "icons": [
+        {
+            "src": "assets/images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/images/icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#1F3641",
+    "background_color": "#ffffff",
+    "prefer_related_applications": false
+}
